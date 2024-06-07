@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navbar{
+    --bs-navbar-color: #f8f9fa;
+    --bs-navbar-active-color: #f8f9fa;
+    --bs-navbar-brand-color: #f8f9fa;
+    --bs-navbar-brand-padding-y: 0.3125rem;
+}
