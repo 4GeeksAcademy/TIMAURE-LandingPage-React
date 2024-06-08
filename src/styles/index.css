@@ -15,4 +15,26 @@
     --bs-navbar-active-color: #f8f9fa;
     --bs-navbar-brand-color: #f8f9fa;
     --bs-navbar-brand-padding-y: 0.3125rem;
+    --bs-navbar-brand-font-size: 1.5rem;
+    --bs-navbar-toggler-border-color: #f8f9fa;
+    --bs-navbar-toggler-icon-bg: url(https://icons.veryicon.com/png/o/miscellaneous/icon-breakpoint/administration-91.png);
 }
+
+
+.nav-item{
+font-size: 20px;
+}
+.nav-link{
+font-size: 20px;
+}
+.footer{
+    height: 50px;
+    --bs-body-font-size: 20px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+.m-5 {
+    margin: 4rem !important;}
+    .pb-5 {
+        padding-bottom: 0rem !important;
+    }

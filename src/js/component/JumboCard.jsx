@@ -1,5 +1,5 @@
 import React from "react";
-<link rel="stylesheet" href="style.css" />
+
 
 const JumboCard= () => {
     return(
